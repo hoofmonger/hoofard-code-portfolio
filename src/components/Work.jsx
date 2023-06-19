@@ -18,18 +18,19 @@ const Work = () => {
         {/* grid container*/}
         <div className='grid sm:grid-cols-2 md:grid-cols-3 gap-4'>
           {/*card container*/}
-          <div className='shadow-lg shadow-[#f2ec7b] group container rounded-md flex justify-center items-center mx-auto content-div'>
+          <div style={{backgroundImage:`url(${mathQuiz})`}} 
+          className='shadow-lg shadow-[#f2ec7b] group container rounded-md flex justify-center items-center mx-auto content-div'>
             {/*hover effects*/}
-            <div>
-              <span>
-
+            <div className='opacity-0 group-hover:opacity-100'>
+              <span className='text-2xl font-bold tracking-wider'>
+                Math Quiz Application
               </span>
-              <div>
-                <a href="/">
-                  <button></button>
+              <div className='pt-8 text-center'>
+                <a href="https://hoofmonger.github.io/coding-quiz/">
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white font-bold text-lg'>Demo</button>
                 </a>
-                <a href="/">
-                  <button></button>
+                <a href="https://github.com/hoofmonger/coding-quiz">
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white font-bold text-lg'>Code</button>
                 </a>
               </div>
             </div>
