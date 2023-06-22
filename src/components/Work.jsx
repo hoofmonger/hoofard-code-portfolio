@@ -4,7 +4,7 @@ import Homepage from '../assets/Homepage-Project.JPG'
 import mathQuiz from '../assets/Math-Quiz.JPG'
 const Work = () => {
   return (
-    <div className='w-full md:h-screen text-[#7b81f2] bg-[#0a192f]'>
+    <div name='work'className='w-full md:h-screen text-[#7b81f2] bg-[#0a192f]'>
       {/*container div*/}
       <div className='max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full'>
         <div className='pb-8 '>
