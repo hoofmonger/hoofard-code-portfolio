@@ -1,5 +1,4 @@
 import React from 'react'
-import suitPicture from '../assets/suitPicture.jpg'
 
 const About = () => {
   return (

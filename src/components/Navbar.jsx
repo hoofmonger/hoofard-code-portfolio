@@ -84,10 +84,9 @@ const Navbar = () => {
     </a>
   </li>
   <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#420a73]'>
-    <a className='flex justify-between items-center w-full'
-    href="https://github.com/hoofmonger">
-      Email<HiOutlineMail size={50}/> 
-    </a>
+  <Link className='flex justify-between items-center w-full' to="contact" smooth={true} duration={500}>
+          Email <HiOutlineMail size={50}/>
+        </Link>
   </li>
 </ul>
     </div>

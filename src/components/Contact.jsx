@@ -8,7 +8,7 @@ const Contact = () => {
                 <p className='text-4xl font-bold inline border-b-4 border-[#f2ec7b]'> 
                 Contact 
                 </p>
-                <p className='py-4'>
+                <p className='py-4 text-lg font-semibold'>
                     Submit the form below or shoot me an email - hoofardcode@gmail.com
                 </p></div>
                 <input className='my-4 p-2 bg-slate-100'type="text" name="name" placeholder='Name' />
