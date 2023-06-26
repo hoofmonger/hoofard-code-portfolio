@@ -43,7 +43,7 @@ const Work = () => {
             {/*hover effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold tracking-wider'>
-                Math Quiz Application
+                Homepage
               </span>
               <div className='pt-8 text-center'>
                 <a href="https://hoofmonger.github.io/coding-quiz/">
@@ -63,7 +63,7 @@ const Work = () => {
             {/*hover effects*/}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold tracking-wider'>
-                Math Quiz Application
+                Day Planner
               </span>
               <div className='pt-8 text-center'>
                 <a href="https://hoofmonger.github.io/day-planner/">
