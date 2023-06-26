@@ -9,8 +9,10 @@ const Contact = () => {
                 Contact 
                 </p>
                 <p className='py-4 text-lg font-semibold'>
-                    Submit the form below or shoot me an email - hoofardcode@gmail.com
-                </p></div>
+                    Submit the form below or shoot me an email - hoofardcode@gmail.com, or call/text me at 2149572404
+                </p>
+                <a className='text-lg py-2 font-semibold sm:hidden' href="https://drive.google.com/file/d/1xuKqkrkP0lworyFprc9FHr1dlbApcWx7/view?usp=drive_link"> click here for my resume</a>
+                </div>
                 <input className='my-4 p-2 bg-slate-100'type="text" name="name" placeholder='Name' />
                 <input className='my-4 p-2 bg-slate-100' type="text" name="email" placeholder='Email' />
                 <textarea className='bg-slate-100 p-2' name="message" rows="10" placeholder='Message'></textarea>
