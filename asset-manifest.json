@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hoofard-code-portfolio/static/css/main.2c5200f8.css",
-    "main.js": "/hoofard-code-portfolio/static/js/main.ee6a164c.js",
+    "main.css": "/hoofard-code-portfolio/static/css/main.183592ed.css",
+    "main.js": "/hoofard-code-portfolio/static/js/main.5e301280.js",
     "static/media/Homepage-Project.JPG": "/hoofard-code-portfolio/static/media/Homepage-Project.05934f129e6484e35d97.JPG",
     "static/media/GraphQL_Logo.svg.png": "/hoofard-code-portfolio/static/media/GraphQL_Logo.svg.fc6b9451733c620ceb86.png",
     "static/media/DayPlanner.JPG": "/hoofard-code-portfolio/static/media/DayPlanner.04ea46c12d6a628d4328.JPG",
@@ -14,11 +14,11 @@
     "static/media/css.png": "/hoofard-code-portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/hoofard-code-portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/hoofard-code-portfolio/index.html",
-    "main.2c5200f8.css.map": "/hoofard-code-portfolio/static/css/main.2c5200f8.css.map",
-    "main.ee6a164c.js.map": "/hoofard-code-portfolio/static/js/main.ee6a164c.js.map"
+    "main.183592ed.css.map": "/hoofard-code-portfolio/static/css/main.183592ed.css.map",
+    "main.5e301280.js.map": "/hoofard-code-portfolio/static/js/main.5e301280.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c5200f8.css",
-    "static/js/main.ee6a164c.js"
+    "static/css/main.183592ed.css",
+    "static/js/main.5e301280.js"
   ]
 }
